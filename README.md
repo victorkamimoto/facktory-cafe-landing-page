@@ -4,8 +4,7 @@ A modern and responsive landing page for a fictional coffee shop, designed to sh
 
 ## Preview
 
-<!-- Add your project screenshot here -->
-![Facktory Café Preview](./img/preview.png)
+![Facktory Café Preview](./img/Facktory Café Preview.png)
 
 ## About the Project
 
